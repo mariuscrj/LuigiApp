@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "546221087664",
+    "project_id": "luigi-f8bb9",
+    "storage_bucket": "luigi-f8bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546221087664:android:4cad1960f621d19b2cd475",
+        "android_client_info": {
+          "package_name": "com.luigi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546221087664-fc76ggu5ot5bnv0i4jka7s96rl99hgmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyWV4ut9iR2Cx0SFOmpvntr_Lle-JTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546221087664-fc76ggu5ot5bnv0i4jka7s96rl99hgmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546221087664:android:04a2f0c4b10c72e02cd475",
+        "android_client_info": {
+          "package_name": "com.marius.luigi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546221087664-fc76ggu5ot5bnv0i4jka7s96rl99hgmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQyWV4ut9iR2Cx0SFOmpvntr_Lle-JTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546221087664-fc76ggu5ot5bnv0i4jka7s96rl99hgmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
